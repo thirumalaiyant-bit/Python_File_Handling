@@ -1,0 +1,2 @@
+Hello! This is a Python file handling program.
+Python can read and write files easily.
